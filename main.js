@@ -58,7 +58,7 @@ function abt_e() {
 
 function abt_f() {
     t('I have a lot more which you can view on my site. Would you like to see?')
-    b('<button onclick="window.open(\'https://www.jacobdrath.co)\')">Yes!</button> <button onclick="abt_g()">No, Thanks!</button>')
+    b('<button onclick="window.open(\'https://www.jacobdrath.co\')">Yes!</button> <button onclick="abt_g()">No, Thanks!</button>')
 }
 
 function abt_g() {
